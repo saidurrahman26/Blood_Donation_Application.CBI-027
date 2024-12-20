@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BloodDonationApplication</string>
+    <string name="donor_quote">BE a donor and feed the need of random</string>
+    <string name="city">City</string>
+    <string name="name">NAME</string>
+    <string name="number">NUMBER</string>
+    <string name="mobile_number">MOBILE NUMBER</string>
+    <string name="blood_group">BLOOD GROUP</string>
+    <string name="password">PASSWORD</string>
+</resources>
